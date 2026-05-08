@@ -62,8 +62,7 @@ Activity 3/
 * FPS optimization
 * Custom trained models
   
-🖇️To open the site just click:
-https://machine-learning-igaomnkecjzm7t78flg4il.streamlit.app/
+🔗 [Open the Website](https://machine-learning-igaomnkecjzm7t78flg4il.streamlit.app/)
 
 Developed by: Aireen Joice Dulatre
 

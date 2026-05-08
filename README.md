@@ -37,13 +37,13 @@ py -m pip install streamlit streamlit-webrtc ultralytics av opencv-python
 
 📁Project Structure
 
-Activity 3/
-│
-├── apps.py
-├── requirements.txt
-├── packages.txt
-├── runtime.txt
-└── README.md
+    Activity 3/
+    │
+    ├── apps.py
+    ├── requirements.txt
+    ├── packages.txt
+    ├── runtime.txt
+    └── README.md
 
 💼 How It Works
 

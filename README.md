@@ -64,5 +64,5 @@ Activity 3/
 🖇️To open the site just click:
 https://machine-learning-igaomnkecjzm7t78flg4il.streamlit.app/
 
-Developed by Joice Dulatre
+Developed by: Aireen Joice Dulatre
 

@@ -9,6 +9,7 @@ A real-time object detection web application built using:
 * MediaPipe
 
 The application allows users to detect objects live through a webcam directly in the browser.
+
 🎯 Features
 * Real-time webcam object detection
 * YOLOv8 integration
